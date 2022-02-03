@@ -1,0 +1,8 @@
+{
+  "perform_pixel_fill_in": true,
+  "perform_sharpening": true,
+  "perform_histogram_equalization": true,
+  "resize": true,
+  "rotate": true,
+  "add_progress_bar": true
+}
